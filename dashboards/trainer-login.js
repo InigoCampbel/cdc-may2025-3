@@ -308,7 +308,7 @@ const TrainerAuth = {
             // Return result with redirect
             return {
                 success: true,
-                redirect: 'dashboards/trainer/trainer.html'
+                redirect: 'trainer/trainer.html'
             };
             
         } catch (error) {
